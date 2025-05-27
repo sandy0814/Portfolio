@@ -14,7 +14,6 @@ h2{
     font-family: cursive;
     padding-left: 50px;
     color: #6EADFF;
-    text-decoration: underline;
 }
 p{
     font-family: Times New Roman;
@@ -51,7 +50,6 @@ p{
 p1{
 color: #6EADFF;
 font-size: 20px;
-text-decoration: underline;
 padding-left: 50px;
 font-family: cursive;
 }
