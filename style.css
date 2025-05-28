@@ -25,7 +25,7 @@ p{
 }
 #Home{
     font-size: 20px;
-    padding-right: 100px;
+    padding-left: 1200px;
     color: rgb(230, 230, 230);
     transition: 0.4s ease-in-out;
 }
@@ -34,7 +34,7 @@ color: orange;
 }
 #About{
     font-size: 20px;
-    padding-right: 100px;
+    padding-left: 30px;
     color: rgb(230, 230, 230);
     transition: 0.4s ease-in-out;
 }
@@ -44,7 +44,7 @@ color: orange;
 }
 #Contact{
     font-size: 20px;
-    padding-right: 750px;
+    padding-left: 30px;
     color: rgb(230, 230, 230);
     transition: 0.4s ease-in-out;
 }
